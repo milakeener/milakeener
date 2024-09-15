@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milakeener
 - 👀 I’m interested in how we can use computer science to make the world a better place!
-- 🌱 I’m currently learning various programming languages including Python, Java, JavaScript, and C.
+- 🌱 I’m currently learning various programming languages including Python, Java, JavaScript, C#, and C.
 - 📫 You can reach me via email at milakeener@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm deeply passionate about exploring the world, and in my free time I participate in Model UN and study Japanese.
