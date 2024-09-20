@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning various programming languages including Python, Java, JavaScript, C#, and C.
 - 📫 You can reach me via email at milakeener@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm deeply passionate about exploring the world, and in my free time I participate in Model UN and study Japanese.
+- ⚡ Fun fact: I'm deeply passionate about connecting the world, and in my free time I participate in Model UN and study Japanese.
 
 <!---
 milakeener/milakeener is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
